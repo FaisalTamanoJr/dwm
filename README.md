@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# My custom build of Luke's dwm build
 
 ## FAQ
 
