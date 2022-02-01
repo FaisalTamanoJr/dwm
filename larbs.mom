@@ -201,6 +201,8 @@ There are nine tags, active tags are highlighted in the top left.
 .ITEM
 \f(CWMod+F4\fP \(en pulsemixer (audio control)
 .ITEM
+\f(CWMod+F5\fP \(en Rerun kayboard mapping scripts if new keyboard is attached
+.ITEM
 \f(CWMod+F6\fP \(en Transmission torrent client (not installed by default)
 .ITEM
 \f(CWMod+F7\fP \(en Toggle on/off transmission client via dmenu
@@ -208,8 +210,6 @@ There are nine tags, active tags are highlighted in the top left.
 \f(CWMod+F9\fP \(en Mount a USB drive/hard drive or Android
 .ITEM
 \f(CWMod+F10\fP \(en Unmount a non-essential drive or Android
-.ITEM
-\f(CWMod+F12\fP \(en Rerun kayboard mapping scripts if new keyboard is attached
 .ITEM
 \f(CWMod+`\fP \(en Select an emoji to copy to clipboard
 .ITEM
