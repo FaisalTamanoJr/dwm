@@ -246,8 +246,8 @@ static Key keys[] = {
 	// { MODKEY,			XK_F7,		spawn,		SHCMD("td-toggle") },
 	{ MODKEY,			XK_F9,		spawn,		SHCMD("dmenumount") },
 	{ MODKEY,			XK_F10,		spawn,		SHCMD("dmenuumount") },
-	{ MODKEY,			XK_F11,		spawn,		SHCMD("light -U 15") },
-	{ MODKEY,			XK_F12,		spawn,		SHCMD("light -A 15") },
+	{ MODKEY,			XK_F11,		spawn,		SHCMD("sudo light -U 15") },
+	{ MODKEY,			XK_F12,		spawn,		SHCMD("sudo light -A 15") },
 	{ MODKEY,			XK_space,	zoom,		{0} },
 	{ MODKEY|ShiftMask,		XK_space,	togglefloating,	{0} },
 
