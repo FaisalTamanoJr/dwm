@@ -17,10 +17,10 @@ static int showbar            = 1;        /* 0 means no bar */
 static int topbar             = 1;        /* 0 means bottom bar */
 static char *fonts[]          = { "fira code:size=10", "JoyPixels:pixelsize=10:antialias=true:autohint=true"  };
 static char normbgcolor[]           = "#282828";
-static char normbordercolor[]       = "#282828";
+static char normbordercolor[]       = "#928374";
 static char normfgcolor[]           = "#458588";
 static char selfgcolor[]            = "#282828";
-static char selbordercolor[]        = "#928374";
+static char selbordercolor[]        = "#458588";
 static char selbgcolor[]            = "#458588";
 static char *colors[][3] = {
        /*               fg           bg           border   */
